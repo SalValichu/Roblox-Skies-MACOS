@@ -2,6 +2,11 @@
 
 This repository contains a shell script and assets to fix Roblox skyboxes on Mac. The skyboxes.zip and devy.mm2 - Roblox Skies (2).rar contain additional skies you can use.
 
+## Example
+
+![Example](/Example-Images/Example.png)
+
+
 ## Important Information
 
 - **YOU CANNOT USE THIS WITH GREY SKIES**
@@ -123,12 +128,29 @@ If the skybox fix doesn't work:
 - The skybox fix works best with the provided FFlags configuration
 - Both xorfee and ricky use these FFlags for optimal performance
 
+## Credits
+
+- Xorfee for the skyboxes ZIP folder & FFLAGS config
+- Ricky for discovering how to use Custom Skies
+- Devy.mm2 for **also** discovering how to use Custom Skies
+- Xorfee's Discord for allowing me to share - and for providing the FFlags
+
+## Credit Links
+
+- Xorfee: [Roblox](https://www.roblox.com/users/716661842/profile)
+- Ricky: [Roblox](https://www.roblox.com/users/33916776/profile)
+- Devy.mm2: [YouTube](https://www.youtube.com/@Korblox)
+- Xorfee's Discord: [Discord](https://discord.gg/xorfee)
+
 ## Contact
 
-For support or inquiries, you can reach the author:
+For support or inquiries, you can reach me through:
 - Discord: @salvali
 - Roblox: [@SalValichu](https://www.roblox.com/users/profile?username=SalValichu)
 - GitHub: [@SalValichu](https://github.com/SalValichu)
 - Email: salvalichubizenquiries@gmail.com
 
-![Example](Example.png)
+## More Examples
+
+![Example2](/Example-Images/Example2.png)
+![Example3](/Example-Images/Example3.png)
