@@ -123,4 +123,12 @@ If the skybox fix doesn't work:
 - The skybox fix works best with the provided FFlags configuration
 - Both xorfee and ricky use these FFlags for optimal performance
 
+## Contact
+
+For support or inquiries, you can reach the author:
+- Discord: @salvali
+- Roblox: [@SalValichu](https://www.roblox.com/users/profile?username=SalValichu)
+- GitHub: [@SalValichu](https://github.com/SalValichu)
+- Email: salvalichubizenquiries@gmail.com
+
 ![Example](Example.png)
